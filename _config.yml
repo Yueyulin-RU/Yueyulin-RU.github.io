@@ -85,7 +85,7 @@ author:
   bio              : "Trying to do betterr"
   location         : "Nijmegen Netherlands"
   employer         : "Radboud University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lfpF6T0AAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Yueyu-Lin"
