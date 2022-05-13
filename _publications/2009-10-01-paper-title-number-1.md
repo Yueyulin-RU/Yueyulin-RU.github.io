@@ -6,7 +6,7 @@ excerpt: '10.1007/s00340-019-7361-2'
 date: 2020-11-29
 venue: 'Apply Physics B 126, 28'
 paperurl: 'https://link.springer.com/article/10.1007/s00340-019-7361-2'
-citation: 'J.L. Wang, S.M. Zhu, Y.Y. Lin, S. Svanberg and G.Y. Zhao, Mosquito counting system based on optical sensing. Appl. Phys. B 126, 28 (2020)'
+citation: 'J.L. Wang, S.M. Zhu, Y.Y. Lin, S. Svanberg and G.Y. Zhao, Mosquito counting system based on optical sensing. Appl. Phys. B 126, 28 (2020).'
 ---
 10.1007/s00340-019-7361-2
 
