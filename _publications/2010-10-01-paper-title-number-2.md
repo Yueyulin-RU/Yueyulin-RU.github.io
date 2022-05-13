@@ -8,8 +8,3 @@ venue: 'Vision, 4, 37'
 paperurl: 'https://www.mdpi.com/2411-5150/4/3/37'
 citation: 'Y.Y. Lin and S. Svanberg, Foreground Scattering Elimination by Inverse Lock-in-Like Spatial Modulation. Vision, 4, 37 (2020).'
 ---
-10.1007/s00340-019-7361-2
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Y.Y. Lin and S. Svanberg, Foreground Scattering Elimination by Inverse Lock-in-Like Spatial Modulation. Vision, 4, 37 (2020).
