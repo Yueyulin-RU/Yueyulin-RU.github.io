@@ -9,4 +9,4 @@ citation: 'J.L. Wang, S.M. Zhu, Y.Y. Lin, S. Svanberg and G.Y. Zhao, Mosquito co
 DOI: '10.1007/s00340-019-7361-2'
 ---
 
-Recommended citation: Y4.	J.L. Wang, S.M. Zhu, Y.Y. Lin, S. Svanberg and G.Y. Zhao, Mosquito counting system based on optical sensing. Appl. Phys. B 126, 28 (2020).
+Recommended citation: J.L. Wang, S.M. Zhu, Y.Y. Lin, S. Svanberg and G.Y. Zhao, Mosquito counting system based on optical sensing. Appl. Phys. B 126, 28 (2020).
