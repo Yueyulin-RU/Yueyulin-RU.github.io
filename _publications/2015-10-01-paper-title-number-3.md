@@ -8,8 +8,3 @@ venue: 'Sensors, 21, 3329 (Joint first authorship)'
 paperurl: 'https://www.mdpi.com/1424-8220/21/10/3329'
 citation: 'Y.T. Sun, Y.Y. Lin and S. Svanberg, Identification of flying insects in the spatial, spectral and time domains with focus on mosquito imaging, Sensors, 21, 3329 (2021).'
 ---
-DOI: 10.3390/s21103329
-
-[Download paper here](https://www.mdpi.com/1424-8220/21/10/3329)
-
-Recommended citation: Y.T. Sun, Y.Y. Lin and S. Svanberg, Identification of flying insects in the spatial, spectral and time domains with focus on mosquito imaging, Sensors, 21, 3329 (2021).
