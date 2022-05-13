@@ -1,7 +1,7 @@
 ---
 title: "Gas Monitoring in Human Frontal Sinuses - Stability Considerations and Gas Exchange Studies"
 collection: publications
-permalink: /publication/2021-10-01-paper-title-number-4
+permalink: /publication/2020-10-01-paper-title-number-4
 excerpt: 'DOI: 10.3390/s21134413'
 date: 2021-06-28
 venue: 'Sensors, 21, 4413 (2021).'
