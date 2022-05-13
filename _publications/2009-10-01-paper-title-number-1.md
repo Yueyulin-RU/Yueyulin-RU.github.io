@@ -6,8 +6,3 @@ excerpt: 'DOI: 10.1007/s00340-019-7361-2'
 date: 2020-11-29
 venue: 'Apply Physics B 126, 28'
 paperurl: 'https://link.springer.com/article/10.1007/s00340-019-7361-2'
----
-10.1007/s00340-019-7361-2
-
-[Download paper here](https://link.springer.com/article/10.1007/s00340-019-7361-2)
-
