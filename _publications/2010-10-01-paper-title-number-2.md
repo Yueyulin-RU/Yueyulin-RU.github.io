@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Foreground Scattering Elimination by Inverse Lock-in-Like Spatial Modulation"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+date: 2020-08-13
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://www.mdpi.com/2411-5150/4/3/37'
+citation: 'Y.Y. Lin and S. Svanberg, Foreground Scattering Elimination by Inverse Lock-in-Like Spatial Modulation. Vision, 4, 37 (2020).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Y1.	Y.Y. Lin and S. Svanberg, Foreground Scattering Elimination by Inverse Lock-in-Like Spatial Modulation. Vision, 4, 37 (2020).
