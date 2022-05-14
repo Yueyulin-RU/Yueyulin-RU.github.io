@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Guangzhou, China, South China Normal University, 2014 - 2018
-* M.S. in Guangzhou, China, South China Normal University, 2018 - 2021, Supervisors: Katarina Svanberg & Sune Svanberg
-* Ph.D in Nijmegen, Netherlands, Radboud University, 2022 - present, Supervisors: Simona M. Cristescu
+* M.S. in Guangzhou, China, South China Normal University, 2018 - 2021, Supervisors: [Katarina Svanberg](https://www.lunduniversity.lu.se/lucat/user/4b38829994e49365361079a442db7b19) & [Sune Svanberg](https://www.atomic.physics.lu.se/staff/professors/sune-svanberg/)
+* Ph.D in Nijmegen, Netherlands, Radboud University, 2022 - present, Supervisors: [Simona M. Cristescu](https://www.ru.nl/tracegasfacility/group/simona-cristescu/)
 
 Work experience
 ======
