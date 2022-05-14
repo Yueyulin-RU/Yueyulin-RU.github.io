@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Guangzhou, China, South China Normal University, 2014 - 2018
+* M.S. in Guangzhou, China, South China Normal University, 2018 - 2021, Supervisors: Katarina Svanberg & Sune Svanberg
+* Ph.D in Nijmegen, Netherlands, Radboud University, 2022 - present, Supervisors: Simona M. Cristescu
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021 - 2022: ROperation and maintenance engineer
+  * China Unicom Software Research Institute
+  * Supervisor: Zhaoyuan Wang, Zhenguo Fang
   
 Skills
 ======
@@ -42,18 +36,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
