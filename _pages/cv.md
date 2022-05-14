@@ -19,7 +19,7 @@ Work experience
 ======
 * 2021 - 2022: Operation and maintenance engineer
   * China Unicom Software Research Institute
-  * Supervisor: Zhaoyuan Wang, Zhenguo Fang
+  * Supervisors: Zhaoyuan Wang & Zhenguo Fang
   
 Skills
 ======
