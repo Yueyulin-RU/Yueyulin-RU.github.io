@@ -43,6 +43,15 @@ Research experiences
 * Identification of flying insects in the spatial, spectral and time domains with focus on mosquito imaging.  
   Design image process algorithm and coded with C++, carry out part of the manuscript writing task.
 
+Patents
+======
+* A method for foreground scattering elimination based on inverse phase-locked space modulation. Chinese Patent Application 201910546779X, filed June 2019, Patent Pending.
+* A cardiopulmonary sound signal recognition method and system. Chinese Patent Application 2017110932877, filed November 2017, Patent Pending.
+* Multifunctional electronic stethoscope and auscultation system. Chinese Patent Application 2016108612274, filed September 2016, Patent Pending.
+* A Heart sound signal detection equipment. Chinese Patent CN209032422U, filed November 8, 2017, and issued June 28, 2019.
+* A kind of microcomputer mouse. Chinese Patent CN207133788U, filed July 24, 2017, and issued March 23, 2018.
+* Multifunctional electronic stethoscope. Chinese Patent CN206499478U, filed September 28, 2016, and issued September 19, 2017.
+* High-precision measuring device for glass stress based on magneto-optical modulation. Chinese patent CN206321370U, filed November 16, 2016, and issued July 11, 2017.
 
 Publications
 ======
