@@ -24,7 +24,7 @@ Work experience
 Skills
 ======
 * Ability to construct programs with C, MATLAB and Python, also with coding experience under LINUX.
-* Familiar with machine learning principles and applications. Machine learning certificate from Coursera. ([Machine Learning]https://coursera.org/share/e83e5079809d39cbd70d60b5b1a334c4). 
+* Familiar with machine learning principles and applications. Machine learning certificate from Coursera. [Machine Learning](https://coursera.org/share/e83e5079809d39cbd70d60b5b1a334c4). 
 * Applied optical spectroscopy and imaging.
 * English level: CET6, IELTS 6.0, good oral and written proficiency in English.
 
