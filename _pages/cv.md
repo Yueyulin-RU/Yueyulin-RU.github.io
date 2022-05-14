@@ -43,8 +43,6 @@ Research experiences
 
 Patents
 ======
-* **A method for foreground scattering elimination based on inverse phase-locked space modulation.**  
-  Chinese Patent Application 201910546779X, filed June 2019, Patent Pending.
 * **A cardiopulmonary sound signal recognition method and system.**
   Chinese Patent Application 2017110932877, filed November 2017, Patent Pending.
 * **Multifunctional electronic stethoscope and auscultation system.**  
