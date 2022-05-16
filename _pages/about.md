@@ -23,4 +23,4 @@ After graduation, I decided to become a post-undergraduate student in the SCNU A
 
 PhD
 ======
-To be continue and trying to do better.
+To be continue and trying to do better...
