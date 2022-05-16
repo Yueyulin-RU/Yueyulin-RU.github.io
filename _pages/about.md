@@ -22,3 +22,6 @@ Master
 ======
 After graduation, I decided to become a post-undergraduate student in the SCNU Applied Molecular Spectroscopy and Remote Sensing Group, under the co-supervisions of Prof. Katarina Svanberg and Prof. Sune Svanberg. I served as the course assistant on the course Atomic and Molecular Spectroscopy given by Sune Svanberg, and had the best result of all the students in the examination. I am the first and sole student author of one published scientific journal article on advanced imaging. In the second year, I applied for scholarship and became an exchange student at the Lund Laser Centre, LLC, in Lund, Sweden for six months. During my stay in LLC, he worked with Dr. Patrik Lundin, Dr. Emilie Krite Svanberg, Dr. Anna-Lena Sahlberg and so on. Based on the work I done in Sweden, a paper on gas in scattering media absorption spectroscopy which developing advanced diagnostics of human lungs was published in 2021. After coming back to China, I worked with his group member and had another co-first author publication on optical detection of flying disease-carrying mosquitos. After three years work in Sune’s group, I had five publications and one patent based on what I have done.
 
+PhD
+======
+To be continue and trying to do better.
