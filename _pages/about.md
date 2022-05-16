@@ -13,7 +13,7 @@ Hi. My name is Yueyu Lin. I came from China. I received my bachelor in 2018 and 
 
 Bachelor
 ======
-In 2014, after the university entrance exam, I went to South China Normal university to start my undergraduate student life and majored in Electronics Science and Technology at the department of Physics and Telecommunication Engineering. From 2016 to 2018, I joined the research group of Prof. Zhanghan and started my path of research. In the course of two years, I won several awards, including the second prize of the 15th National Challenge Cup, Special prize of the 14th Challenge Cup in Guangdong Province, First prize of Guangdong Electronic Design Contest and so on with my team members. My team also applied for six patents, some of which are still pending and some of which are approved. And my team was announced as the Best Innovation Team of South China Normal University in 2018.
+In 2014, after the university entrance exam, I went to South China Normal university to start my undergraduate student life and majored in Electronics Science and Technology at the department of Physics and Telecommunication Engineering. From 2016 to 2018, I joined the research group of Prof. Zhanghan and started my path of research. In the course of two years, our team won several awards, including the second prize of the 15th National Challenge Cup, Special prize of the 14th Challenge Cup in Guangdong Province, First prize of Guangdong Electronic Design Contest and so on with my team members. We also applied for six patents, some of which are still pending and some of which are approved. And we was announced as the Best Innovation Team of South China Normal University in 2018.
 
 Master
 ======
