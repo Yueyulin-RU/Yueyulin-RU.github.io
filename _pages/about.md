@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I hope you have a good time here. If you have any problems or questions, please send to yueyu.lin@science.ru.nl
+I hope you have a good time here. If you have any problems or questions, please send to [yueyu.lin@science.ru.nl](yueyu.lin@science.ru.nl)
 ---
 
 Education
