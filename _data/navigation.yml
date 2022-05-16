@@ -2,9 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "Photo collection"
-    url: /portfolio/
-    
+
   - title: "CV"
     url: /cv/
