@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-Hi. My name is Yueyu Lin. I came from China. I received my bachelor in 2018 and master degree in 2021 from South China Normal University. Now I am a new PhD candidate of Life Science Trace Gas Facility & Trace Gas Research Group, under the supervision of Prof. Simona M. Cristescu.
+Hi. My name is Yueyu Lin. I came from China. I received my bachelor in 2018 and master degree in 2021 from South China Normal University. Now I am a Physics PhD candidate of Life Science Trace Gas Facility & Trace Gas Research Group, under the supervision of Prof. Simona M. Cristescu.
 
 Bachelor
 ======
